@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pl_calculator/static/css/main.6d8057bf.css",
-    "main.js": "/pl_calculator/static/js/main.5bc2e730.js",
+    "main.js": "/pl_calculator/static/js/main.528a1824.js",
     "static/js/453.cdb3f2fd.chunk.js": "/pl_calculator/static/js/453.cdb3f2fd.chunk.js",
     "static/media/roboto-latin-700-normal.woff2": "/pl_calculator/static/media/roboto-latin-700-normal.4535474e1cf8598695ad.woff2",
     "static/media/roboto-latin-500-normal.woff2": "/pl_calculator/static/media/roboto-latin-500-normal.7077203b1982951ecf76.woff2",
@@ -61,11 +61,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/pl_calculator/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/pl_calculator/index.html",
     "main.6d8057bf.css.map": "/pl_calculator/static/css/main.6d8057bf.css.map",
-    "main.5bc2e730.js.map": "/pl_calculator/static/js/main.5bc2e730.js.map",
+    "main.528a1824.js.map": "/pl_calculator/static/js/main.528a1824.js.map",
     "453.cdb3f2fd.chunk.js.map": "/pl_calculator/static/js/453.cdb3f2fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d8057bf.css",
-    "static/js/main.5bc2e730.js"
+    "static/js/main.528a1824.js"
   ]
 }
